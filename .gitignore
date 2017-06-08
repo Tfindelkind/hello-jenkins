@@ -28,3 +28,6 @@ node_modules
 
 # swp files
 *.swp
+
+# package-lock.json
+package-lock.json
