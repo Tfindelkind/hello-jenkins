@@ -1,3 +1,3 @@
 # hello-jenkins
 Simple App listening on port 5000
-release 0.11
+release 0.12
